@@ -1,0 +1,5 @@
+alias gs="git status"
+alias ga="git add ."
+alias gp="git pull"
+alias gl="git log"
+
